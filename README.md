@@ -40,3 +40,5 @@ Includes histograms, bar charts, and severity breakdowns.
 1. Clone this repository
 2. Install requirements: `pip install pandas seaborn matplotlib folium`
 3. Run the script in Jupyter Notebook or Python environment
+
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/kolachana-praneesh-618a05291/)
