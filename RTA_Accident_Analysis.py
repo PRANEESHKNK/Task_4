@@ -75,3 +75,11 @@ plt.ylabel('Number of Accidents')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+
+#Accidents by Type of Collision
+plt.figure(figsize=(6,4))
+sns.countplot(x='Type_of_collision',data=df,hue='Accident_severity',palette='plasma', order=df['Type_of_collision'].value_counts().index)
+plt.xlabel('Type of Collision')
+plt.ylabel('Number of Accidents')
+plt.title('Accidents by Type of Collision')
+plt.show()
