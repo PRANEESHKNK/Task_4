@@ -24,6 +24,7 @@ Includes histograms, bar charts, and severity breakdowns.
 <img src="Figure_2.png" width="500">
 <img src="Figure_3.png" width="500">
 <img src="Figure_4.png" width="500">
+<img src="Figure_5.png" width="500">
 
 
 ## 🧠 Insights Gained
